@@ -25,13 +25,13 @@ The layout includes a **sidebar navigation**, a **top navbar with search**, **pl
    ```bash
    git clone https://github.com/your-username/spotify-clone.git
    ```
-2. Open `index.html` in any browser.
+2. Open `spotify.html` in any browser.
 
 ## 📂 Project Structure
 
 ```
 .
-├── index.html      # Main HTML file
+├── spotify.html      # Main HTML file
 ├── Spotify.css     # Stylesheet
 └── assets/         # Images & icons
 ```
